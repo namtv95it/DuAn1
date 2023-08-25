@@ -283,32 +283,29 @@ export default function Header() {
             </div>
           </div>
           <ul className="navbar-nav secondary-menu flex-row">
-            <li className="nav-item">
-              <a className="nav-link" href="search.html">
-                <i className="fa fa-search"></i>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="wishlist.html">
-                <i className="fa fa-heart"></i>
-              </a>
-            </li>
-            <li
-              className="nav-item"
-              data-bs-toggle="offcanvas"
-              data-bs-target="#offcanvasRight"
-            >
-              <a className="nav-link position-relative">
-                <div className="cart-badge">8</div>
-                <i className="fa fa-shopping-cart fs-20"></i>
-              </a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link" href="account-dashboard.html">
-                <i className="fa fa-user fs-20"></i>
-              </a>
-            </li>
-          </ul>
+        <li className="nav-item">
+          <a className="nav-link dark-mode-icon" href="javascript:;">
+            <div className="mode-icon">
+              <i className="bi bi-moon"></i>
+            </div>
+          </a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="search.html"><i className="bi bi-search"></i></a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="wishlist.html"><i className="bi bi-suit-heart"></i></a>
+        </li>
+        <li className="nav-item" data-bs-toggle="offcanvas" data-bs-target="#offcanvasRight">
+          <a className="nav-link position-relative" href="javascript:;">
+            <div className="cart-badge">8</div>
+            <i className="bi bi-basket2"></i>
+          </a>
+        </li>
+        <li className="nav-item">
+          <a className="nav-link" href="account-dashboard.html"><i className="bi bi-person-circle"></i></a>
+        </li>
+      </ul>
         </nav>
       </header>
       

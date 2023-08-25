@@ -12,20 +12,20 @@ export default function Footer() {
                     <h5 className="mb-3 fw-bold">About Us</h5>
                     <p className="mb-2">There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable.</p>
 
-                    <a className="link-dark" href="javascript:;">Read More</a>
+                    <a className="link-dark">Read More</a>
                 </div>
                 </div>
                 <div className="col">
                 <div className="footer-widget-7">
                     <h5 className="mb-3 fw-bold">Explore</h5>
                     <ul className="widget-link list-unstyled">
-                    <li><a href="javascript:;">Fashion</a></li>
-                    <li><a href="javascript:;">Women</a></li>
-                    <li><a href="javascript:;">Furniture</a></li>
-                    <li><a href="javascript:;">Shoes</a></li>
-                    <li><a href="javascript:;">Topwear</a></li>
-                    <li><a href="javascript:;">Brands</a></li>
-                    <li><a href="javascript:;">Kids</a></li>
+                    <li><a>Fashion</a></li>
+                    <li><a>Women</a></li>
+                    <li><a>Furniture</a></li>
+                    <li><a>Shoes</a></li>
+                    <li><a>Topwear</a></li>
+                    <li><a>Brands</a></li>
+                    <li><a>Kids</a></li>
                     </ul>
                 </div>
                 </div>
@@ -33,12 +33,12 @@ export default function Footer() {
                 <div className="footer-widget-8">
                     <h5 className="mb-3 fw-bold">Company</h5>
                     <ul className="widget-link list-unstyled">
-                    <li><a href="javascript:;">About Us</a></li>
-                    <li><a href="javascript:;">Contact Us</a></li>
-                    <li><a href="javascript:;">FAQ</a></li>
-                    <li><a href="javascript:;">Privacy</a></li>
-                    <li><a href="javascript:;">Terms</a></li>
-                    <li><a href="javascript:;">Complaints</a></li>
+                    <li><a>About Us</a></li>
+                    <li><a>Contact Us</a></li>
+                    <li><a>FAQ</a></li>
+                    <li><a>Privacy</a></li>
+                    <li><a>Terms</a></li>
+                    <li><a>Complaints</a></li>
                     </ul>
                 </div>
                 </div>
@@ -46,11 +46,11 @@ export default function Footer() {
                 <div className="footer-widget-9">
                     <h5 className="mb-3 fw-bold">Follow Us</h5>
                     <div className="social-link d-flex align-items-center gap-2">
-                    <a href="javascript:;"><i className="bi bi-facebook"></i></a>
-                    <a href="javascript:;"><i className="bi bi-twitter"></i></a>
-                    <a href="javascript:;"><i className="bi bi-linkedin"></i></a>
-                    <a href="javascript:;"><i className="bi bi-youtube"></i></a>
-                    <a href="javascript:;"><i className="bi bi-instagram"></i></a>
+                    <a><i className="bi bi-facebook"></i></a>
+                    <a><i className="bi bi-twitter"></i></a>
+                    <a><i className="bi bi-linkedin"></i></a>
+                    <a><i className="bi bi-youtube"></i></a>
+                    <a><i className="bi bi-instagram"></i></a>
                     </div>
                     <div className="mb-3 mt-3">
                     <h5 className="mb-0 fw-bold">Support</h5>
@@ -71,12 +71,12 @@ export default function Footer() {
                 </div>
                 <div className="app-icon d-flex flex-column flex-sm-row align-items-center justify-content-center gap-2">
                     <div>
-                    <a href="javascript:;">
+                    <a>
                         <img src="assets/images/play-store.webp" width="160" alt=""/>
                     </a>
                     </div>
                     <div>
-                    <a href="javascript:;">
+                    <a>
                         <img src="assets/images/apple-store.webp" width="160" alt=""/>
                     </a>
                     </div>

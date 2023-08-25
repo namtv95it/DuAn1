@@ -602,7 +602,9 @@ h6 {
 
 }
 
-
+.cursor-pointer{
+  cursor: pointer;
+}
 
 .blog-cards .card,
 .cartegory-box .card {
@@ -711,8 +713,9 @@ h6 {
 }
 
 .footer-widget-9 .social-link a:hover {
-  color: #ffffff;
+  color: #ffffff !important;
   background-color: #212529;
+  cursor: pointer;
 }
 
 
