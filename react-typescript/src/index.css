@@ -1,7 +1,6 @@
 
 /* Trong tệp CSS của bạn (ví dụ: src/index.css) */
 @import "~font-awesome/css/font-awesome.min.css";
-
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
