@@ -56,9 +56,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/01.webp" className="card-img-top" alt="..." />
@@ -74,7 +75,7 @@ const Home = () => {
                                                     <i className="bi bi-star-fill text-warning"></i>
                                                     <i className="bi bi-star-fill text-warning"></i>
                                                 </div>
-                                                <p className="mb-0 h6 fw-bold product-price">$49</p>
+                                                <p className="mb-0 h6 fw-bold product-price">$49999</p>
                                             </div>
                                         </div>
                                     </div>
@@ -85,9 +86,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/02.webp" className="card-img-top" alt="..." />
@@ -113,9 +115,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/03.webp" className="card-img-top" alt="..." />
@@ -141,9 +144,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/04.webp" className="card-img-top" alt="..." />
@@ -169,9 +173,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/05.webp" className="card-img-top" alt="..." />
@@ -197,9 +202,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/06.webp" className="card-img-top" alt="..." />
@@ -225,9 +231,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/07.webp" className="card-img-top" alt="..." />
@@ -253,9 +260,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/08.webp" className="card-img-top" alt="..." />
@@ -281,9 +289,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/09.webp" className="card-img-top" alt="..." />
@@ -309,9 +318,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/new-arrival/10.webp" className="card-img-top" alt="..." />
@@ -341,9 +351,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/best-sellar/01.webp" className="card-img-top" alt="..." />
@@ -369,9 +380,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/best-sellar/02.webp" className="card-img-top" alt="..." />
@@ -387,7 +399,7 @@ const Home = () => {
                                                     <i className="bi bi-star-fill text-warning"></i>
                                                     <i className="bi bi-star-fill text-warning"></i>
                                                 </div>
-                                                <p className="mb-0 h6 fw-bold product-price">$49</p>
+                                                <p className="mb-0 h6 fw-bold product-price">$4999999999</p>
                                             </div>
                                         </div>
                                     </div>
@@ -397,9 +409,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/best-sellar/03.webp" className="card-img-top" alt="..." />
@@ -426,9 +439,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/best-sellar/04.webp" className="card-img-top" alt="..." />
@@ -454,9 +468,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/best-sellar/05.webp" className="card-img-top" alt="..." />
@@ -486,9 +501,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/trending-product/01.webp" className="card-img-top" alt="..." />
@@ -514,9 +530,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/trending-product/02.webp" className="card-img-top" alt="..." />
@@ -543,9 +560,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a>
                                                 <img src="assets/images/trending-product/03.webp" className="card-img-top" alt="..." />
@@ -571,9 +589,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/trending-product/04.webp" className="card-img-top" alt="..." />
@@ -599,9 +618,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/trending-product/05.webp" className="card-img-top" alt="..." />
@@ -631,9 +651,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/special-offer/01.webp" className="card-img-top" alt="..." />
@@ -659,9 +680,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/special-offer/02.webp" className="card-img-top" alt="..." />
@@ -688,9 +710,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/special-offer/03.webp" className="card-img-top" alt="..." />
@@ -716,9 +739,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/special-offer/04.webp" className="card-img-top" alt="..." />
@@ -744,9 +768,10 @@ const Home = () => {
                                         <div className="position-relative overflow-hidden">
                                             <div
                                                 className="product-options d-flex align-items-center justify-content-center gap-2 mx-auto position-absolute bottom-0 start-0 end-0">
-                                                <a><i className="fa fa-heart text-white"></i></a>
-                                                <a><i className="fa fa-shopping-cart text-white fs-20"></i></a>
-                                                <a><i className="fa fa-search-plus text-white fs-20"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-heart"></i></a>
+                                                <a href="javascript:;"><i className="bi bi-basket3"></i></a>
+                                                <a href="javascript:;" data-bs-toggle="modal" data-bs-target="#QuickViewModal"><i
+                                                    className="bi bi-zoom-in"></i></a>
                                             </div>
                                             <a href="product-details.html">
                                                 <img src="assets/images/special-offer/05.webp" className="card-img-top" alt="..." />
@@ -966,84 +991,8 @@ const Home = () => {
                         <p className="mb-0 text-capitalize">Select your favorite categories and purchase</p>
                     </div>
                     <div className="cartegory-box">
-                        <a href="shop-grid-type-4.html">
-                            <div className="card">
-                                <div className="card-body">
-                                    <div className="overflow-hidden">
-                                        <img src="assets/images/categories/01.webp" className="card-img-top rounded-0" alt="..." />
-                                    </div>
-                                    <div className="text-center">
-                                        <h5 className="mb-1 cartegory-name mt-3 fw-bold">Kurtas</h5>
-                                        <h6 className="mb-0 product-number fw-bold">856 Products</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="shop-grid-type-4.html">
-                            <div className="card">
-                                <div className="card-body">
-                                    <div className="overflow-hidden">
-                                        <img src="assets/images/categories/02.webp" className="card-img-top rounded-0" alt="..." />
-                                    </div>
-                                    <div className="text-center">
-                                        <h5 className="mb-1 cartegory-name mt-3 fw-bold">Heels</h5>
-                                        <h6 className="mb-0 product-number fw-bold">169 Products</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="shop-grid-type-4.html">
-                            <div className="card">
-                                <div className="card-body">
-                                    <div className="overflow-hidden">
-                                        <img src="assets/images/categories/03.webp" className="card-img-top rounded-0" alt="..." />
-                                    </div>
-                                    <div className="text-center">
-                                        <h5 className="mb-1 cartegory-name mt-3 fw-bold">Lehenga</h5>
-                                        <h6 className="mb-0 product-number fw-bold">589 Products</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="shop-grid-type-4.html">
-                            <div className="card">
-                                <div className="card-body">
-                                    <div className="overflow-hidden">
-                                        <img src="assets/images/categories/04.webp" className="card-img-top rounded-0" alt="..." />
-                                    </div>
-                                    <div className="text-center">
-                                        <h5 className="mb-1 cartegory-name mt-3 fw-bold">Plazzos</h5>
-                                        <h6 className="mb-0 product-number fw-bold">278 Products</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="shop-grid-type-4.html">
-                            <div className="card">
-                                <div className="card-body">
-                                    <div className="overflow-hidden">
-                                        <img src="assets/images/categories/05.webp" className="card-img-top rounded-0" alt="..." />
-                                    </div>
-                                    <div className="text-center">
-                                        <h5 className="mb-1 cartegory-name mt-3 fw-bold">Makeup</h5>
-                                        <h6 className="mb-0 product-number fw-bold">985 Products</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
-                        <a href="shop-grid-type-4.html">
-                            <div className="card">
-                                <div className="card-body">
-                                    <div className="overflow-hidden">
-                                        <img src="assets/images/categories/06.webp" className="card-img-top rounded-0" alt="..." />
-                                    </div>
-                                    <div className="text-center">
-                                        <h5 className="mb-1 cartegory-name mt-3 fw-bold">Shoes</h5>
-                                        <h6 className="mb-0 product-number fw-bold">489 Products</h6>
-                                    </div>
-                                </div>
-                            </div>
-                        </a>
+
+                        {/* Top category */}
 
                     </div>
                 </div>
