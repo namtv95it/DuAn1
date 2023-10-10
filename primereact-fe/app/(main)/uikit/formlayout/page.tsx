@@ -46,7 +46,7 @@ const FormLayoutDemo = () => {
                 </div>
 
                 <div className="card p-fluid">
-                    <h5>Vertical Grid</h5>
+                    <h5>Vertical Grid 2</h5>
                     <div className="formgrid grid">
                         <div className="field col">
                             <label htmlFor="name2">Name</label>
